@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings at the Sessions of the Peace held at Hicks-Hall, for the county of Middlesex, Decemb. 5, 1681 with His Majesties two orders, and Sir William Smith's speech to the grand jury concerning putting the laws in execution against Popish recusants and conventicles, together with his discourse upon the statute of the 3d. of Hen. 8. (herewith printed) concerning the power of the justices of the peace to impannel juries.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55944</idno>
+            <idno type="STC">Wing P3567</idno>
+            <idno type="STC">ESTC R6287</idno>
+            <idno type="EEBO-CITATION">11893718</idno>
+            <idno type="OCLC">ocm 11893718</idno>
+            <idno type="VID">50506</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50506)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 507:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings at the Sessions of the Peace held at Hicks-Hall, for the county of Middlesex, Decemb. 5, 1681 with His Majesties two orders, and Sir William Smith's speech to the grand jury concerning putting the laws in execution against Popish recusants and conventicles, together with his discourse upon the statute of the 3d. of Hen. 8. (herewith printed) concerning the power of the justices of the peace to impannel juries.</title>
+               </titleStmt>
+               <extent>[3], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Davies ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in University of Pennsylvania Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, William, --  Sir, 1616 or 17-1696.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50506:1"/>
+            <pb facs="tcp:50506:1"/>
+            <p>THE PROCEEDINGS AT THE <hi>Seſſions of the Peace</hi> HELD AT HICKS-HALL, FOR THE County of Middleſex, <hi>Decemb.</hi> 5. 1681.</p>
+            <p>With His MAJESTIES Two <hi>ORDERS,</hi> and Sir <hi>WILLIAM SMITH</hi>'s SPEECH to the Grand Jury, concerning putting the Laws in Execution againſt <hi>Popiſh</hi> Recuſants and Conventicles: Together with his Diſcourſe upon the Statute of <hi>3d.</hi> of <hi>Hen.</hi> 8. (herewith printed) concerning the Power of the Juſtices of the Peace to Impannel JURIES.</p>
+            <p>Printed and Publiſhed by the Order of the ſaid Juſtices.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Walter Davies</hi> in <hi>Amen-Corner.</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50506:2"/>
+            <pb n="1" facs="tcp:50506:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <head>Ad general.<note place="margin">Midd. ſſ.</note> Seſſionem pacis Domini Regis tent. per Adjornament pro Com. <hi>Midd.</hi> apud <hi>Hicks-hall</hi> in St. <hi>John-ſtreet,</hi> in Com. prae<g ref="char:EOLhyphen"/>dict. die Lunae, ſcil. Quinto die <hi>Decembris,</hi> Anno Regni <hi>Caroli</hi> Regis Secundi nunc <hi>An<g ref="char:EOLhyphen"/>gliae,</hi> &amp;c. Triceſimo tertio.</head>
+            <head type="sub">The Juſtices then aſſembled, directed Sir <hi>William Smith</hi> to ſpeak to the Grand-Jury to ſome Points, which he did as followeth.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>IT is not uſual to give a Charge at this Seſſions, but ſomething I am to ſay to you; Sir <hi>George Jeofferies</hi> is your Chair-man, but a Duty incumbent upon him, to be at another Place at this time, would not permit his Atten<g ref="char:EOLhyphen"/>dance upon this Service. I muſt confeſs when he firſt ingaged in it, I promis'd to relieve him, if at any time he was under a neceſſity of being abſent, I am ſorry there was any ſuch at this time; It is very unhappy for you, and as unhappy for me; for you, becauſe you might have been aſſiſt<g ref="char:EOLhyphen"/>ed by his great Abilities, and directed in thoſe things, which poſſibly may be too hard for me; For me, becauſe by my diſcourſe I ſhall diſcover that weakneſs, which by my ſilence I might have concealed. But before I ſay any thing, I will recommend my ſelf to you, by a Character which I hope will give me credit with you; I am an Engliſh-man, who in all the publick Adminiſtrations of my Life, never had any other deſign, but the Honour and Safety of the King, and the Peace and Proſperity of my Country, ab<g ref="char:EOLhyphen"/>ſtracted from all private Conſiderations of Profit or Advantage whatſoever. That I may prove this to you, I will accquaint you that I have had the Honour to Sit in two Parliaments, that in the year 1640. and this laſt Long Parliament from the beginning to the end of it; No queſtion you have heard of Penſioners, I do declare before God and you, that I never received, nor any one for me, one Shilling from the King or Crown, or any Miniſter of State in Money, Place, Office, Imployment, or any other matter or thing whatſoever, directly or indirectly to this day. I have been a Juſtice of the Peace this Twenty years, I have been and am a Deputy-Lieutenant: And have been made uſe of in other publick Affairs, (none of Profit) but never made one Penny advantage by them or any of them. This methinks ſhould
+<pb n="2" facs="tcp:50506:3" rendition="simple:additions"/>perſwade you to believe, that what I ſhall ſay to you, is intended for the Good and Welfare of my King and Country.</p>
+            <p>
+               <hi>Gentlemen,</hi> A good Phyſitian when he comes to his Patient, endeavours to find out his Diſeaſe, before he applies himſelf to the Cure; if he doth otherwiſe, he rather practiſeth to gain Skill, than to make uſe of what he hath. This Kingdom is at preſent under very ſad Circumſtances, God Al<g ref="char:EOLhyphen"/>mighty help us. Pray let us endeavour to find out the Cauſe, that a ſuitable remedy may be applyed. I think I have it: We have loſt a Jewel, a Jewel of an ineſtimable price in the Judgment of all Wiſe men; What do you think this is? It is Government; I will deſcribe it to you, becauſe you may know it when you meet with it: It is where there be good Laws, and thoſe duely executed; and where the Subjects have a reverence for, and a due eſteem of their Prince. That we have good Laws, all thoſe who un<g ref="char:EOLhyphen"/>derſtand them muſt confeſs; and if they will take pains to compare them with thoſe of other Countries, will find they are the beſt in the World, the moſt equal, and therefore the moſt eaſie. Is it not then pity they ſhould not be well executed; If the Laws are good, I am ſure the Prince is better; they are but Juſt, he is both Juſt and Merciful; His Juſtice appears in all his Actions, and yet his Mercy is more eminent, for he hath forgiven his Fathers Enemies, as well as his own, witneſs the Act of Oblivion; he takes nothing from any man, doth not oppreſs the meaneſt of his Subjects, nor interpoſeth his Authority to obſtruct Juſtice. Should we not honour and eſteem ſuch a Prince? Should we not aſſiſt him, that he may live with Honour, at Eaſe, and be enabled to defend us from his and our Enemies? Should we not for our own ſakes, endeavour to preſerve his Life, and puniſh thoſe who ſhall contrive deſigns againſt it? This ought to be done, it is our Duty, it is our Intereſt.</p>
+            <p>
+               <hi>Gentlemen,</hi> I told you Government was a moſt pretious Jewel, without it a Kingdom is but a Wilderneſs or Foreſt of Wild Beaſts, who prey upon each other. Where there is no Government, do you think a Poor man will walk bare-foot by a Shooe-makers Shop, and not take a pair of Shooes? Or go from a Cooks with an empty Belly? Or paſs through <hi>Lombard-street,</hi> and not ſupply his Pockets? Without Government mankind would live in <hi>Statu Belli;</hi> not that I am of Mr. <hi>Hobbs</hi> his Opinion, we were created ſo, but by known frailty and the Devils ſubtilty we are ſo; and therefore without Government and a due Subjection to Law, every man muſt ſtand upon his Guard, and keep a Garriſon in his Houſe to defend his Goods, and when he walks abroad, muſt maintain a Guard to defend his Perſon; and yet this will not make him ſafe neither, for his own Garriſon and Guard may, if their Appetite or Intereſt leads them to it, betray him.</p>
+            <p>
+               <hi>Gentlemen,</hi> God Almighty knew this when he created Man, and therefore gave him a Law by which he ſhould live and govern himſelf, and printed it in his heart, called the Law of Nature, which is, That Man ſhould reve<g ref="char:EOLhyphen"/>rence and adore God which gave him his Being, that he ſhould honour his Parents, and thoſe are both Natural and Civil: That he ſhould live juſtly and peaceably with thoſe of his own Kind, and this is truly called the Law of Nature. Is it not both natural and reaſonable, that we ſhould adore God who made us, and not Birds and Beaſts, or the works of our own hands? Is it not natural to Honour our Parents, who gave us Life? and our Princes, who by
+<pb n="3" facs="tcp:50506:3"/>their Care and Power preſerve it? Is it not natural to live juſtly and peace<g ref="char:EOLhyphen"/>ably with all men, and not injure them in their Lives and Eſtates, or good Names, by Violence, Fraud, or Perjury? This was not a State of War; for if man had minded and attended to this Law as he ought to have done, there would have been no Contentions or Quarrels, no nor Fears or Jealouſies, which are the Devils Engines to Batter down the Peace of the World: But the Devil, that ſubtil Adverſary of Mankind, was too hard for poor Man; he put a miſt before his eyes, made him forget his Maker, neglect yhis Duty to his Parents, and filled him full of Ambition, and unruly Appetites, by which the World was grown to that height of Wickedneſs, that God ſwept them away by an univerſal Deluge, and only left <hi>Noah</hi> and his Family to repleniſh it, by whoſe Inſtructions and good example, the Law of Nature revived, and for ſome time duely executed amongſt men; but at laſt the Devil, that ſubtil Serpent, crept into the Hearts of men, and ſtifled the Law of Nature, and brought the World into the old State of Ambition, Violence, Rapine, and all manner of Oppreſſion. Yet infinite Goodneſs had ſtill Com<g ref="char:EOLhyphen"/>paſſion for man; and that that Law might be better ſeen and regarded, was pleaſed to write it in two Tables with his own Finger: This did prevail a while in the time of <hi>Moſes</hi> and <hi>Joſhua,</hi> and ſome of the Judges, only now and then the Devil would put in for his ſhare, in the time of <hi>Moſes,</hi> who was a very meek Prince, and governed the <hi>Iſraelites</hi> by God's immediate Di<g ref="char:EOLhyphen"/>rection; the Devil had filled <hi>Corah</hi> full of Ambition, which hurried him in<g ref="char:EOLhyphen"/>to a Rebellion, that coſt him his Life: He confederated with ſome of the Princes and People, and gathered themſelves together againſt <hi>Moſes</hi> and <hi>Aaron,</hi> and ſaid, You take too much upon you, ſeeing all the Congregation is Holy, and the Lord is amongſt them, wherefore then life you up your ſelves above the Congregation? This Rebellion you may obſerve, as all other Rebellions almoſt that I have heard of, began upon pretence of Re<g ref="char:EOLhyphen"/>ligion and Liberty. The Congregation is Holy, and why lift you up your ſelves? Soveraignty is the deſign, and Godlineſs the Pretence, and the People and eaſily taken in a ſnare, for the appeal is uſually made to them; that pleaſeth, and cheats them of their Loyalty. Excellent Arbiters in Matters relating to Government, who the Crafty and Diſloyal make uſe of, but the Wife and Prudent never truſt. The <hi>Iſraelites,</hi> as I told you, lived in great obſervance to this Law, until they were corrupted by the <hi>Canaanites,</hi> and imbraced their ſenceleſs Idols, inſtead of the Ever-living God, who ſuffered the World to remain in ſin and darkneſs for many years. At laſt God had compaſſion upon Man, made one Eſſay more to try if he could reclaim him, and ſent his only Son, not only to ſave, but likewiſe to inſtruct, and by his Precepts to reſtore that Law, which man had loſt. If you obſerve the Doctrine of our Bleſſed Saviour, it is no other than to explain and enforce the Practice of the Law of Nature. The Religion in our Saviour's dayes, was to be obedient to Princes, to do Juſtice, love Merey, and walk humbly before God. To viſit the Fatherleſs and Widdows in their affliction, and live un<g ref="char:EOLhyphen"/>ſpotted from the World. His Precepts were Humility, Meekneſs, Patience, Temperance, Brotherly-kindneſs and Charity, and to do as we would be done unto, and all this is but the Law of Nature. I have read the Laws of other Countries as well as our own, and to my underſtanding, their Laws are no other, than the Law of Nature drawn out in length, with an Addition of Penalties to the Prohibitions, for the better enforcing Man's Duty and Obedience. And becauſe this excellent Law ſhould not again be loſt, he was pleaſed to put it into a way of Practice, as the beſt means to preſerve
+<pb n="4" facs="tcp:50506:4"/>it: He choſe Twelve Apoſtles, who after Chriſt left the World, were inſpi<g ref="char:EOLhyphen"/>red by the Holy Spirit, and great power given unto them. Then for the better, and more ſure eſtabliſhing of the Religion which their Maſter had taught them, ſent Overſeers, which they called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or Biſhops, to ſe<g ref="char:EOLhyphen"/>veral Parts and Places to propagate that Religion, and eſtabliſh God's Church. But we do not find that theſe Biſhops had any Superin<g ref="char:EOLhyphen"/>tendency or Supremacy one over another; and therefore it is to be admired from whence the Biſhop of <hi>Rome</hi> derives his Supremacy, and with ſo much confidence juſtifie it. There is as little ground for his pretended Infallibility; for was not St. <hi>Peter</hi> himſelf reproved? which he would not have been if he had been infallible. Upon theſe two Pillars of Supremacy and Infallibility, the <hi>Romiſh</hi> Church is chiefly built; a very weak Foundation, upon which it is to be wondred that any wiſe or learned man can build his Faith. Theſe Biſhops in their ſeveral Places and Churches, appoint<g ref="char:EOLhyphen"/>ed Methods for the decency of Divine Worſhip; and this Church-Govern<g ref="char:EOLhyphen"/>ment by Biſhops, is brought down to us of <hi>England</hi> by a continued Succeſſi<g ref="char:EOLhyphen"/>on; and theſe Methods which are called Ceremonies, and the Liturgy of our Church, which comprehends the Government of it, is not only directed by the Biſhops, but hath the Sanction of a Parliament; ſo that it hath the Conſent and Agreement both of the King and People: Which when I have ſeriouſly thought upon, raiſeth my admiration, how any man can think himſelf hardly dealt with, when he is required to comply with that, to which he hath before agreed; or that he ſhould think it reaſonable, that ſeparate Aſſemblies, or pub<g ref="char:EOLhyphen"/>lick Conventicles, ſhould be permitted, in oppoſition to the ſaid eſtabliſhed Government. I cannot underſtand it otherwiſe, but that thoſe perſons who frequent theſe Conventicles, and give themſelves up to be ruled and directed by their Teachers, allow thoſe Teachers both Infallibility and Supremacy; and not only ſo, but alſo a Legiſlative Power, to make what Orders they think fit, which is to make a Prince and a Pope in every Congregation. Theſe publick Conventicles and ſeparate Congregations well conſidered, will appear yet more unreaſonable, for they weaken the Intereſt both of Church and State. The <hi>Romiſh</hi> Church is an united Body, and not to be withſtood but by another united Body, where there is ſtrength and truth, which muſt be the Church of <hi>England,</hi> which certainly comes the neareſt to the Apoſtolick and Primitive Inſtitution of Church-Government, of any Church in the World; and if the People were united and reconciled to this true <hi>Protestant</hi> Church, it was not poſſible that Popery ſhould prevail here. Our Diviſions give bold<g ref="char:EOLhyphen"/>neſs to that common Enemy to make Attempts upon us. Beſides, theſe pub<g ref="char:EOLhyphen"/>lick Conventicles which proclaim our Diviſions to the World, at the ſame time diſcover our weakneſs, and muſt cauſe a potent neighbour-Prince to caſt his Eye upon us, who will not want the Suggeſtions of Ambition and Intereſt to try his Fortune here; and if he ſhould, what can withſtand him, we being thus divided? The Luxury and Security of <hi>Aſia</hi> gave <hi>Alexander</hi> the great hopes of Conqueſt; he went thither with 40000 men well diſciplin'd and in order; <hi>Darius</hi> met him with ten times the number, but they conſiſted of ma<g ref="char:EOLhyphen"/>ny Nations, not well united nor ordered as they ought to have been: This ſmall Army found little reſiſtance from that great number, and did little more than walk through them to Conqueſt. Methinks the ill Conſequences which may be eaſily foreſeen to ariſe from ſuch plain demonſtrations of a divided Na<g ref="char:EOLhyphen"/>tion, ſhould prevail upon the moſt tender Conſcience, not to be guilty of any thing that ſhould bring ſuch certain ruine upon his King, Countrey, and <hi>Pro<g ref="char:EOLhyphen"/>testant</hi> Religion, eſpecially having liberty according to Law, to exerciſe his
+<pb n="5" facs="tcp:50506:4"/>Religion in his own way, in his own Houſe, with his own Family, and an ad<g ref="char:EOLhyphen"/>dition under ſive more. I have made it my buſineſs to preſerve Diſſenters from being proſecuted upon the Penal Laws, for not coming to Church, be<g ref="char:EOLhyphen"/>cauſe I had a regard to tender Conſciences; but ſince the King and Parliament have been ſo kind, to indulge them the Toleration I have mentioned, I can<g ref="char:EOLhyphen"/>not but eſteem it rather Humour than Conſcience, when they will yet offend againſt the Law by theſe publick Conventicles, which are ſo deſtructive to the Peace and Safety of the Kingdom, and are not ſuffered in any Countreys or Kingdoms that I know of. I cannot tell what to ſay more to you upon this Matter; but if I had the Tongue of Men and Angels, I would make uſe of it to perſwade and adjure you for Gods ſake and your own, to lay aſide theſe publick Conventicles, and keep to your own Houſes, and ſerve God there in your own way. Theſe publick Separations, I muſt confeſs, I take to be one Cauſe, and that a great one, of our preſent Troubles; and if you Gentle<g ref="char:EOLhyphen"/>men of the Bench and Grand Jury be of that opinion, I hope we ſhall kind<g ref="char:EOLhyphen"/>ly agree together in the remedy of this Evil. The Law of Nature which I have recommended to you, teacheth us to unite and live ſociably together, and to do thoſe things which may contribute to Self-preſervation.</p>
+            <p>
+               <hi>Gentlemen,</hi> The next thing which I am to recommend unto you, is the con<g ref="char:EOLhyphen"/>ſideration of Juries, I mean, Grand Juries: I ſhall deſire the Statute of the <hi>3d.</hi> of <hi>Henry</hi> the <hi>8th.</hi> for the regulating thoſe Juries, may be read.</p>
+            <p>
+               <hi>The Clerk of the Peace did read it.</hi>
+            </p>
+         </div>
+         <div type="act">
+            <head>The Act the Juſtices may return Impannels for the King by their diſcretions.</head>
+            <p>
+               <hi>WHereas great extortions and oppreſſions be, and have been within the more party of all the Counties and Shires within this Realm of</hi> England, <hi>by the ſubtilty and untrue demeanour of Sheriffs, and their Miniſters, committed and done unto many perſons in great number of the Kings Subjects, by mean and making and returning at every Seſſions holden within the ſaid Counties and Shires, for the body of the Shire, in taking and putting in, and returning of names of ſuch perſons, as for the ſingular advantage, benefit, and gain of the ſaid Sheriffs and their Mini<g ref="char:EOLhyphen"/>ſters, will be wilfully forſworn and perjured, by the ſiniſter labour of the ſaid Sheriffs and their Miniſters: by reaſon whereof many and divers ſubſtanti<g ref="char:EOLhyphen"/>al perſons (the Kings true Subjects) contrary to good equity and rightwiſe<g ref="char:EOLhyphen"/>neſs, have divers times and many wrongfully been indicted of divers Mur<g ref="char:EOLhyphen"/>ders, Felonies, and other Misbehaviour, by their covin and falſhood, to the utter undoing of their Lives, loſs of their Goods and their Lands: by rea<g ref="char:EOLhyphen"/>ſon whereof they and every of them, in avoiding the untrue trouble and vex<g ref="char:EOLhyphen"/>ation which to them might come and enſue by reaſon and occaſion of the ſame falſe Indictments; and alſo ſometime by labour of the ſaid Sheriffs, divers great Felonies and Murders concealed, and by the ſaid perſons alſo by the ſaid Sheriffs and their Miniſters partially returned, not preſented, be and have been compelled to make Fines and give rewards to the ſaid Sheriffs and their Miniſters: Wherefore be it enacted, ordained, and eſtabliſhed by the King our Sovereign Lord, and by the aſſent of the Lords Spiritual and
+<pb n="6" facs="tcp:50506:5"/>Temporal, and the Commons of this preſent Parliament aſſembled, and by authority of the ſame, That all Pannels to be returned, which be not at the Suit of any party, that ſhall be made, and put in by every Sheriff and their Miniſters afore any Iuſtice of Goal-delivery, or Iuſtice of Peace, whereof one to be of the</hi> Quorum, <hi>in their open Seſſions to enquire for the King, ſhall be reformed by putting to, and taking out of the names of the perſons which ſo be empanelled by every Sheriff and their Miniſters, by diſcretion of the ſame Iuſtice before whom ſuch Panels ſhall be returned: And that the ſame Iuſtice and Iuſtices ſhall command every Sheriff and their Miniſters in his abſence, to put other perſons in the ſame Panel by their diſcretions: and that the ſame Panels ſo reſormed by the ſaid Iuſtices, be good and law<g ref="char:EOLhyphen"/>ful: And that if any Sheriff, or any their Miniſter, at any time do not re<g ref="char:EOLhyphen"/>turn the ſame Panel ſo reformed, that then every ſuch Sheriff or Miniſter ſo offending, for every ſuch offence ſhall forfeit xx. li. Sterling Maney of</hi> England: <hi>the one half thereof to our Sovereign Lord the King or his Heirs, and the other half to him or them of his Subjects that will Sue for the ſame by Action of Debt at the Common Law, or Bill, or Complaint, where it ſhall fortune any ſuch to fall and be: and that none Eſſoin ne Protection be allowed for the Defendant or Defendants in that Action or Plaint, nor that the ſaid Defendant nor Defendants therein be admitted to wage their Law: And that the Kings Pardon ſhall be no bar againſt the party and parties in the ſame, that any ſuch Action ſhall Sue.</hi>
+            </p>
+            <p>
+               <hi>Gentlemen,</hi> Juries are a Hedge about our Liberties and Lives, and the Wiſ<g ref="char:EOLhyphen"/>dom of our Anceſtors took great care they may be ſuch as they ought to be, as you may ſee by this Statute. 'Tis not reaſonable that the Lives and For<g ref="char:EOLhyphen"/>tunes of the People ſhould be at the diſpoſe of an under-Sheriff, certainly all men muſt think them more ſafe in the hands of Judges who are ſworn, and are Learned in the Laws, and Juſtices of the Peace, who are men of Eſtates and Intereſts in their Countrey. An under-Sheriff, as the Statute expreſſeth, may be corrupted; how can then either the King or his Subjects depend upon the Juſtice of the Law, if the under-Sheriff ſhall have the abſolute power to return Juries, and no room left to reform the Pannel after the Sheriff hath re<g ref="char:EOLhyphen"/>turned it? Certainly the Statute never intended this; but ſo it would be, if the Sheriffs refuſal to alter it be a barr to the alteration of it: For what ſig<g ref="char:EOLhyphen"/>nifies the Penalty of 20<hi>l.</hi> nothing at all: The Statute never could intend the Matter ſhould reſt there; for if ſo, it is uſeleſs, and the miſchief recited in the Preamble remains. When a Sheriff hath returned a Pannel into the Court, the Court is then poſſeſſed of it, and the Hand to put out any returned, and put in others, is but a Circumſtance in my opinion, and to be done by any the Court ſhall direct, if the Sheriff ſhould refuſe. I hope the Judges (who are Expoſitors of the Law) will conſider this Point, which is ſo important both for the King and all his Subjects. I never heard that any Sheriff ever refuſed to alter the Pannel, when the Court directed it, until of late. It hath been always done: I my ſelf, with divers other Gentlemen, by the direction of the Judge, have gone off the Bench, to ſerve upon the Grand Jury, although we have not been returned, and our Names put into the Pannel in the Court. If it ſhould not be in the power of a Court to do this, farewel the Security and Liberty of the People of <hi>England.</hi> But we in this County are yet in a worſe conditi<g ref="char:EOLhyphen"/>on than any other; we cannot ſay we have a Sheriff. The Bench laſt Seſſions deſired the Sheriffs company and aſſiſtance, to do that Right which belongs to that Office; they refuſed, and ſent word by Mr. Recorder, that they were
+<pb n="7" facs="tcp:50506:5"/>obliged to attend the Lord Mayor, and could not ſtir out of the City. If this be ſo, what a melancholy poſture is this County in, where there are ſo many of the Nobility and Gentry, and where, for the moſt part, the King himſelf reſides with his whole Court? If there ſhould be a Tumult or Rebellion, who could raiſe the <hi>Poſſe Comitatus</hi> to ſuppreſs it? As ſometime ſince there was in <hi>Naples,</hi> where the Perſons, Houſes and Eſtates of the Inhabitants, were ſubject to the Rage and Violence of the meaneſt of the People: Very ill Maſters! I hope both you and we ſhall conſider this; and ſince we can have no other relief, more cloſely apply our ſelves to thoſe legal ways and means, which may prevent Riots and Tumults. We have a common Enemy, the <hi>Papists,</hi> which notwithſtanding all the Care which hath been taken, we are informed, ſtill ſwarm about this part of the Town. His Majeſty hath been pleaſed to ſend Order to us about them, which we ſhall communicate to you; Mr. Clerk of the Peace, pray read the Orders of the King in Council, which were read, <hi>viz.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>At the Council-Chamber <hi>VVHITEHALL,</hi> the <hi>5th</hi> of <hi>October,</hi> 1681.</head>
+            <list>
+               <label>Preſent</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>His Highneſs Prince</hi> Rupert.</item>
+                     <item>
+                        <hi>Lord Archibiſhop of</hi> Canterbury.</item>
+                     <item>
+                        <hi>Lord Privy Seal.</hi>
+                     </item>
+                     <item>
+                        <hi>Earl of</hi> Bathe.</item>
+                     <item>
+                        <hi>Earl of</hi> Craven.</item>
+                     <item>
+                        <hi>Viſcount</hi> Fauconberg.</item>
+                     <item>
+                        <hi>Lord Biſhop of</hi> London.</item>
+                     <item>
+                        <hi>Mr. Secretary</hi> Jenkins.</item>
+                  </list>
+               </item>
+            </list>
+            <p>VVHereas there was this day preſented at the Board a Liſt of the Names of ſeveral Tradeſmen, who are Papiſts reſiding in the Pariſhes of <hi>St. Martins</hi> in the <hi>Fields, St. Giles</hi> in the <hi>Fields, St. Pauls Covent-Garden,</hi> and places adjacent, contrary to the Laws of this Kingdom, and his Majeſties Proclama<g ref="char:EOLhyphen"/>tions for reinforcing the ſame. It was thereupon Order<g ref="char:EOLhyphen"/>ed by their Lordſhips, That the ſaid Liſt be forthwith ſent to his Majeſties Juſtices of the Peace for the County of <hi>Middleſex,</hi> and the City and Liberties of <hi>Weſtminſter;</hi> who at this preſent Seſſions of Peace are to proceed againſt the ſaid Popiſh Tradeſmen according to Law, and to give the Board an account of what they ſhall do thereupon.</p>
+            <closer>
+               <signed>John Nicholas.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:50506:6"/>
+            <head>At the Court at <hi>VVHITEHALL,</hi> this <hi>11th</hi> day of <hi>November,</hi> 1681.</head>
+            <byline>By the Kings moſt excellent Majeſty, and the Lords of his Ma<g ref="char:EOLhyphen"/>jeſties Honourable Privy-Council.</byline>
+            <p>IT was this day Ordered by his Majeſty in Council that the Juſtices of Peace of Middleſex, and the City and Liberties of <hi>Weſtminſter,</hi> do give an account as ſoon as conveniently may be to this Board of their proceed<g ref="char:EOLhyphen"/>ings, in purſuance of an Order of Council heretofore tranſ<g ref="char:EOLhyphen"/>mitted to them, together with a Liſt of ſeveral Papiſts, who inhabit and keep Shops, and exerciſe Trades here<g ref="char:EOLhyphen"/>abouts contrary to Law.</p>
+            <closer>
+               <signed>Francis Gwyn.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <p>
+               <hi>Gentlemen,</hi> You ſee what Care the King and Council take of us, I hope we ſhall take ſome Care of our ſelves. The <hi>Papists</hi> are our known and com<g ref="char:EOLhyphen"/>mon Enemy, and watch all opportunities to diſturb the Peace of this King<g ref="char:EOLhyphen"/>dom; pray be induſtrious to find them out, and preſent them, that they may be dealt with according to Law.</p>
+            <p>
+               <hi>Gentlemen,</hi> At the Command of the Bench, I have (as well as I can) deli<g ref="char:EOLhyphen"/>vered you their Sence and Commands, and my own Opinion, who (God Al<g ref="char:EOLhyphen"/>mighty knows) have no other deſign than the Safety and Honour of the King, the Preſervation of the true <hi>Protestant</hi> Religion, as it is eſtabliſhed by Law in the Church of <hi>England,</hi> and the Peace and Proſperity of the Kingdom, in the preſervation of their Liberties and Properties. I doubt not but you and all men will joyn with us to theſe Ends, which cannot be effected, unleſs theſe Conventicles, which add preſumption to our Enemies, be laid aſide, and the King, who by his Power is to preſerve us, be with due Reverence obeyed, and kindly aſſiſted by us.</p>
+            <p>
+               <hi>Gentlemen of the Bench,</hi> I am but your Servant, and I hope I have ſpoke your Sence; to which the Court unanimouſly agreed.</p>
+            <p>
+               <hi>Note,</hi> That the Juſtices obſerving a perſon in Court to write, ſent for him to ſee what he writ, which was in Short-hand: They commanded him to tranſcribe in length; which being read to them, they finding it to be truely took, declared it their Sence, and ordered it to be printed and publiſhed, to the intent the whole Kingdom may ſee their Opinion.</p>
+            <closer>
+               <signed>Per Cur. Adderley.</signed>
+            </closer>
+            <pb facs="tcp:50506:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
